@@ -3,3 +3,5 @@
 Self-Review
 I had to look up how bitshifting works. I also wanted to figure out how to close the scanner, which I did. 
 Fun stuff that I only kinda understood until the end. Now, I understand a lot more about Java (just Python, but with a lot of fluff).
+
+EDIT: I just realized it displays right to left instead of left to right. There goes that.
