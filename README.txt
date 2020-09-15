@@ -1,7 +1,11 @@
-# HW-3
-9/11/2020
-Self-Review
-I had to look up how bitshifting works. I also wanted to figure out how to close the scanner, which I did. 
-Fun stuff that I only kinda understood until the end. Now, I understand a lot more about Java (just Python, but with a lot of fluff).
+1. How long did you spend on this assignment? 
+2 hours-ish
 
-EDIT: I just realized it displays right to left instead of left to right. There goes that.
+2. Based on your effort, what letter grade would you say you earned? 
+An A or A-. I reasearched a lot in order to find out what some of my errors were.
+
+3. Based on your solution, what letter grade would you say you earned? 
+I couldn't get it to display right-to-left. Probably a B on that front.
+
+4. Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+I didn't realize until after I submited it that I wasn't displaying right-to-left, so I didn't come up with any solutions. That and understanding error codes were definately where I struggled.
